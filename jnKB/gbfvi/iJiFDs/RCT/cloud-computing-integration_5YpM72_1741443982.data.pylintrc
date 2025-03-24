@@ -388,7 +388,6 @@ check-str-concat-over-line-jumps=no
 
 
 [SIMILARITIES]
-
 # Ignore comments when computing similarities.
 ignore-comments=yes
 
