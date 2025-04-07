@@ -1,5 +1,4 @@
 notifications:
-    commits:      commits@mxnet.apache.org
     issues:       issues@mxnet.apache.org
     pullrequests: commits@mxnet.apache.org
 
