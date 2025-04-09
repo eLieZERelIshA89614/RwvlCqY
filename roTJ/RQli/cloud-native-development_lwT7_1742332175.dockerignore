@@ -24,7 +24,6 @@ test/
 .gitmodules
 boilerplate.go.txt
 LICENSE
-Makefile
 PROJECT
 
 # Generated files to ignore
