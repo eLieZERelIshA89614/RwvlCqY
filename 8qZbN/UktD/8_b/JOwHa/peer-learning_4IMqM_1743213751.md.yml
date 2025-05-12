@@ -13,5 +13,4 @@ unit tests:
     - lcov -r coverage/lcov.info '*/__test*__/*' -o coverage/lcov_cleaned.info
     - genhtml coverage/lcov_cleaned.info --output=coverage
   artifacts:
-    paths:
       - coverage
